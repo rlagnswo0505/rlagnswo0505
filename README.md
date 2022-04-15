@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=Hello%20capsule%20&fontAlign=70&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=HoonJae%20GitHub%20Profile%20&fontAlign=70&descAlign=80)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlagnswo0505%2Frlagnswo0505&count_bg=%2371AA46&title_bg=%23555555&icon=&icon_color=%23FFC73E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
