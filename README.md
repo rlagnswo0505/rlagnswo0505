@@ -12,11 +12,11 @@
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </p>
-
+#
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rlagnswo0505&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlagnswo0505&layout=compact&theme=flag-india&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align="center">
+<p align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlagnswo0505&count_bg=%23365347&title_bg=%23A48058&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
