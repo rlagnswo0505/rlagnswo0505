@@ -17,11 +17,13 @@
 <img alt="Apache" src ="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
 <img alt="Figma" src ="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+<br>
 <p align="center">📚 Frameworks<p>
 <p align="center">
 <img alt="Bootstrap" src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Chart.js" src ="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
 </p>
+<br>
 <p align="center">💻 IDEs/Editors<p>
 <p align="center">
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
